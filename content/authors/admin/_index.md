@@ -11,7 +11,7 @@ role: Ph.D. student in Economics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Center for Economic Behavior and Inequality, University of Copenhagen
-    url: [https://www.stanford.edu/](https://www.econ.ku.dk/cebi/)
+    url: https://www.econ.ku.dk/cebi/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
