@@ -6,7 +6,7 @@ title: Isabel Skak Olufsen
 superuser: true
 
 # Role/position/tagline
-Ph.D. student in Economics
+role: Ph.D. student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
