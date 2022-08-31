@@ -17,6 +17,7 @@ Work in progress
 
 ### Is Inequality in (subjective) well-being meritocratic? Danish evidence from linked survey and administrative data
 Joint work with Claus Thustrup Kreiner. 
+
 Revise and resubmit at *Journal of Economic Behavior and Organization*
 ([*Working Paper available here*](uploads/Happiness_08072022.pdf))  
 
