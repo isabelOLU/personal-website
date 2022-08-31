@@ -45,7 +45,7 @@ content:
   #contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: Follow me
       link: 'https://twitter.com/IsabelSkak'
 
 design:
