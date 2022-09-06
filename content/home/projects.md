@@ -19,7 +19,7 @@ Work in progress
 Joint work with Claus Thustrup Kreiner. 
 
 Accepted by *Journal of Economic Behavior and Organization*
-([*Working Paper available here*](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.econ.ku.dk/cebi/publikationer/working-papers/CEBI_WP_10-22.pdf))  
+([*Working Paper available here*](https://www.econ.ku.dk/cebi/publikationer/working-papers/CEBI_WP_10-22.pdf))  
 
 ### The relation between altruism and envy and their role in charitable donations and the support for redistribution
 Joint work with Thomas Epper, Ernst Fehr, Claus Thustrup Kreiner and Søren Leth-Petersen. 
