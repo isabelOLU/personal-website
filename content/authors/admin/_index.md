@@ -65,7 +65,8 @@ email: 'iso@econ.ku.dk'
 highlight_name: true
 ---
 
-I am a second-year PhD student at the Center for Economic Behavior and Inequality at the Department of Economics, University of Copenhagen.
-My research  focuses on inequality, subjective well-being and social preferences. My supervisors are Claus Thustrup Kreiner and Søren Leth-Petersen.
+I am a third-year PhD student at the Center for Economic Behavior and Inequality at the Department of Economics, University of Copenhagen. I am currently visiting Ernst Fehr at the University of Zürich. My research  focuses on inequality, subjective well-being and social preferences. My supervisors are Claus Thustrup Kreiner and Søren Leth-Petersen.
+
+
 
 
