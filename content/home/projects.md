@@ -12,14 +12,17 @@ design:
   columns: '2'
 ---
 
-Work in progress
+Publications 
 ------
 
 ### Is Inequality in (subjective) well-being meritocratic? Danish evidence from linked survey and administrative data
-Joint work with Claus Thustrup Kreiner. 
+Joint work with Claus Thustrup Kreiner. *Journal of Economic Behavior and Organization* 2022 
+([*Paper available here*](https://www.sciencedirect.com/science/article/pii/S0167268122003213))  
 
-Accepted by *Journal of Economic Behavior and Organization*
-([*Working Paper available here*](https://www.econ.ku.dk/cebi/publikationer/working-papers/CEBI_WP_10-22.pdf))  
+---
+
+Work in progress
+------
 
 ### The relation between altruism and envy and their role in charitable donations and the support for redistribution
 Joint work with Thomas Epper, Ernst Fehr, Claus Thustrup Kreiner and Søren Leth-Petersen. 
