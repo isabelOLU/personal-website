@@ -16,7 +16,7 @@ Publications
 ------
 
 ### Is Inequality in (subjective) well-being meritocratic? Danish evidence from linked survey and administrative data
-Joint work with Claus Thustrup Kreiner. *Journal of Economic Behavior and Organization* 2022 
+Joint work with Claus Thustrup Kreiner. *Journal of Economic Behavior and Organization*. 2022.  
 ([*Paper available here*](https://www.sciencedirect.com/science/article/pii/S0167268122003213))  
 
 ---
