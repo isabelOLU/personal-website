@@ -18,10 +18,11 @@ organizations:
 
 # Interests to show in About widget
 Interests:
-  - Subjective Well-Being
-  - Behavioral Economics
-  - Experimental Economics
   - Public Economics
+  - Applied Microeconometrics
+  - Well-being Economics
+  - Behavioural Economics
+
 
 # Education to show in About widget
 education:
