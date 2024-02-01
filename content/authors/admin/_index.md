@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 Interests:
+  - Subjective Well-Being
   - Behavioral Economics
   - Experimental Economics
-  - Subjective Well-Being 
   - Public Economics
 
 # Education to show in About widget
@@ -65,7 +65,10 @@ email: 'iso@econ.ku.dk'
 highlight_name: true
 ---
 
-I am a third-year PhD student at the Center for Economic Behavior and Inequality at the Department of Economics, University of Copenhagen. My research  focuses on inequality, subjective well-being and social preferences. My supervisors are Claus Thustrup Kreiner and Søren Leth-Petersen.
+I am a fourth-year PhD student at the Center for Economic Behavior and Inequality at the Department of Economics, University of Copenhagen. My supervisors are Claus Thustrup Kreiner and Søren Leth-Petersen. My research  focuses on inequality in subjective well-being, social preferences and the support for redistribution.
+
+In the autumn of 2022, I was a visiting scholar at the University of Zürich, hosted by Ernst Fehr. 
+
 
 
 
