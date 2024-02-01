@@ -20,7 +20,7 @@ organizations:
 Interests:
   - Public Economics
   - Applied Microeconometrics
-  - Well-being Economics
+  - Economics of Happiness
   - Behavioural Economics
 
 
